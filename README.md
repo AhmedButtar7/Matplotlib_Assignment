@@ -6,10 +6,11 @@ This Repel Contains code for assignment of NAVTCC Python Course.
 ![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/f08bcb20-9acf-4ab0-b30d-0bf417caa702)
 
 
-![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/76ecccbe-3054-42f9-8729-e0ccffc841ab)
+
+![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/b2896cbb-747a-46ab-b60a-4d0c93f1b94e)
 
 
-![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/ce569512-f6d9-48bd-a365-a73b874fb0fe)
+![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/c2640440-d803-4b84-9a07-618552f43a4b)
 
 
-![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/26e4bbcd-1712-4681-999d-33678fc0ec41)
+![image](https://github.com/AhmedButtar7/Matplotlib_Assignment/assets/112292278/4a5818d5-e8f5-4ce6-b4c6-5b0ed7db6066)
